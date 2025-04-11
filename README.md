@@ -1,2 +1,2 @@
 # PREDICTIVE-MODELING-FOR-BIRTH-DEFECTS-OF-INFANTS-USING-MACHINE-LEARNING
-https://colab.research.google.com/drive/1em_2kwH4JNOaORSB5QgHva3kxziakpwG?usp=sharing
+Developed a predictive model using genetic and health data to identify potential health risks, utilizing the Random Forest algorithm for accurate and interpretable results. Complemented the analysis with interactive Power BI visualizations to simplify complex datasets and highlight key insights. This project aimed to support healthcare professionals in making informed, data-driven decisions for improved patient outcomes.
